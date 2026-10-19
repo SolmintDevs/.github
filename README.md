@@ -1,1 +1,1 @@
-# 🚀 SPL Token Creators Platform
+# Solana blockchain control room platform.
